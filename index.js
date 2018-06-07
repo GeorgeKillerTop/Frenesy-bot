@@ -256,4 +256,4 @@ var  r1 = [
     "99%",
     "100%"
   ]
-bot.login('NDUzOTA0NTUyOTExOTYyMTEy.DfrHFw.uHZ-WEtcVzhELkksFARnegy53iI');
+bot.login(process.env.BOT_TOKEN);
